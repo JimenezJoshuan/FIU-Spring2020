@@ -1,0 +1,12 @@
+Joshuan Jimenez
+Section: U02
+Git User: jimenezjoshuan (Was ZeTraveler)
+Github Student #:?
+
+Coding 2 Evaluation
+
+For this coding set, the work done was challenging compared to the first set. As I would develop the code each day, I would look online for references to things being done in the coding 
+set. Some of the challenges came from the complexity of the problems being asked. Since it has been a while, I was more comfortable with the F# syntax, but was having more difficulty with 
+the actual problems. I would write over time and take it easy, using references to help me solve some of these problems, such as 3, 5, and 10.
+
+Overall, the coding set provided a decent challenge that allowed me to keep on practicing my F# skills while also helping view the class in a different way.

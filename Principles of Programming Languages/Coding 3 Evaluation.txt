@@ -1,0 +1,15 @@
+Joshuan Jimenez
+Section: U02
+Git User: jimenezjoshuan (Was ZeTraveler)
+Github Student #:?
+Number of Commits: 100
+Number of Days: 23
+
+Coding 3 Evaluation
+
+For this coding set, the work done was challenging compared to the first few sets. I developed the code over many days in order to fully understand the concepts
+being asked in each problem. Most of these problems were very challenging in their own ways, but the problems I had the most difficulty with were 16 and 17.
+They required a lot of time to be done and to understand the material. The rest of the problem set was still challenging, but was a matter of time and
+patience to be able to do it.
+
+Overall, the coding set provided a decent challenge that allowed me to keep on practicing my F# skills while also helping me view the class in a different way.
